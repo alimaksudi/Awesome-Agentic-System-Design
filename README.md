@@ -50,6 +50,7 @@ This repository helps you stay ahead of the curve—bringing together the most u
 - [MetaAgent: Automatically Constructing Multi-Agent Systems Based on Finite State Machines](https://arxiv.org/abs/2507.22606)
 - [AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762)
 - [FlowReasoner: Reinforcing Query-Level Meta-Agents](https://arxiv.org/abs/2504.15257)
+- [Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies](https://arxiv.org/pdf/2502.02533)
   
 ### 🤖 Agentic Frameworks
 
