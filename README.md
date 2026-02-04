@@ -51,6 +51,7 @@ This repository helps you stay ahead of the curve—bringing together the most u
 - [AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762)
 - [FlowReasoner: Reinforcing Query-Level Meta-Agents](https://arxiv.org/abs/2504.15257)
 - [Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies](https://arxiv.org/pdf/2502.02533)
+- [A Survey of Self-Evolving Agents](https://arxiv.org/pdf/2507.21046)
   
 ### 🤖 Agentic Frameworks
 
