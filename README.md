@@ -52,6 +52,8 @@ This repository helps you stay ahead of the curve—bringing together the most u
 - [FlowReasoner: Reinforcing Query-Level Meta-Agents](https://arxiv.org/abs/2504.15257)
 - [Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies](https://arxiv.org/pdf/2502.02533)
 - [A Survey of Self-Evolving Agents](https://arxiv.org/pdf/2507.21046)
+- [Towards a Science of Scaling Agent Systems](https://arxiv.org/pdf/2512.08296)
+- [AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?](https://arxiv.org/pdf/2509.03312)
   
 ### 🤖 Agentic Frameworks
 
