@@ -54,6 +54,10 @@ This repository helps you stay ahead of the curve—bringing together the most u
 - [A Survey of Self-Evolving Agents](https://arxiv.org/pdf/2507.21046)
 - [Towards a Science of Scaling Agent Systems](https://arxiv.org/pdf/2512.08296)
 - [AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?](https://arxiv.org/pdf/2509.03312)
+- [On the Role of Feedback in Test-Time Scaling of Agentic AI Workflows](https://arxiv.org/pdf/2504.01931)
+- [Budget-Aware Tool-Use Enables Effective Agent Scaling](https://arxiv.org/pdf/2511.17006)
+- [Because we have LLMs, we Can and Should Pursue Agentic Interpretability](https://arxiv.org/pdf/2506.12152)
+- 
   
 ### 🤖 Agentic Frameworks
 
