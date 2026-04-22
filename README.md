@@ -60,6 +60,7 @@ This repository helps you stay ahead of the curve—bringing together the most u
 
 #### Agent Design & Optimization
 
+- [CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658)
 - [Weak-for-Strong: Training Weak Meta-Agent to Harness Strong Executors](https://arxiv.org/pdf/2504.04785)
 - [MetaAgent: Automatically Constructing Multi-Agent Systems Based on Finite State Machines](https://arxiv.org/abs/2507.22606)
 - [AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762)
