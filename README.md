@@ -28,10 +28,14 @@ This repository helps you stay ahead of the curve—bringing together the most u
 
 - **Antonio Gulli (Google)** - [Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/preview?ref=ppc.land&tab=t.0)
 
-- **Databricks** — [Agent System Design Patterns](https://docs.databricks.com/aws/en/generative-ai/guide/agent-system-design-patterns)  
+- **Databricks** 
+  — [Agent System Design Patterns](https://docs.databricks.com/aws/en/generative-ai/guide/agent-system-design-patterns)  
   *Patterns for designing, orchestrating, and scaling agents in enterprise data/AI workflows.*
+  — [The Big Book of GenAI](https://www.databricks.com/sites/default/files/2026-03/2026-03-eb-big-book-of-genai-ss-200225.pdf?itm_source=www&itm_category=resources&itm_page=thank-you&itm_location=body&itm_component=hero&itm_offer=2026-03-eb-big-book-of-genai-ss-200225.pdf)
+  *5 ways to leverage your data to build production-quality GenAl applications.*
 
-- **OpenAI** — [A Practical Guide to Building Agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf?utm_source=chatgpt.com)  
+- **OpenAI** 
+  — [A Practical Guide to Building Agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf?utm_source=chatgpt.com)  
   *Hands-on playbook for constructing agent workflows, planning strategies, and evaluation.*
 
 - **Anthropic** — [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)  
